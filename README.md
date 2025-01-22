@@ -1,4 +1,4 @@
-#Teste prático para processo seletivo de estágio na Oak Tecnologia
+# Teste prático para processo seletivo de estágio na Oak Tecnologia
 
 Esse sistema CRUD simples foi desenvolvido para a minha participação no processo seletivo da empresa supracitada.
 
